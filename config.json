@@ -1,0 +1,5 @@
+{
+    "download_dir": "/path/to/download/directory",
+    "log_file": "/path/to/logfile.log",
+    "retries": 3
+  }
